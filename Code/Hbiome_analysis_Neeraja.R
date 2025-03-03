@@ -1,4 +1,4 @@
-# Script name: Analysis for HelloBiome Internship application
+# Script name: Analysis for Hbiome
 # Created on: Jan 2024
 # Author: Neeraja Balasubrahmaniam
 #
